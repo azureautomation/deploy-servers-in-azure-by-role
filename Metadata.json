@@ -1,0 +1,20 @@
+{
+    "Author": "William E. Anderson",
+    "ContentSize": 7786,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-servers-in-azure-by-role/master/AzureRoleDepl.ps1",
+    "DownloadCount": 833,
+    "Id": "Deploy-Servers-In-Azure-By-a7e6d800",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 488,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is an example script that I have used for my blog at\u00a0lastwordinnerd.com. \u00a0It is part of an ongoing series as I build my Azure environment to deploy VMs based on my pre-determined scenario requirements. \u00a0Enjoy!Over the last couple of weeks, we\u2019ve\u00a0taken our simple Azure\u00a0VM c",
+    "Title": "Deploy Servers In Azure By Role",
+    "UpdatedDate": "2015-4-9T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-servers-in-azure-by-role",
+    "UserTags": "Powershell, Windows Azure Virtual Machines"
+}
